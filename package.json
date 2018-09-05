@@ -1,0 +1,15 @@
+{
+  "name": "thanosx-trade-quant",
+  "version": "1.0.0",
+  "description": "Thanosx 交易API",
+  "main": "index.js",
+  "scripts": {
+  },
+  "author": "Thanosx",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "decimal.js": "^10.0.1",
+    "node-rsa": "^1.0.0",
+    "websocket": "^1.0.26"
+  }
+}
